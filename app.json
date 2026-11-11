@@ -1,11 +1,11 @@
 {
   "expo": {
-    "name": "network",
-    "slug": "network",
+    "name": "NetworkGuard",
+    "slug": "networkguard",
     "version": "1.0.0",
     "orientation": "portrait",
     "icon": "./assets/icon.png",
-    "userInterfaceStyle": "light",
+    "userInterfaceStyle": "dark",
     "ios": {
       "supportsTablet": true
     },
